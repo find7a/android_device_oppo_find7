@@ -1,0 +1,2 @@
+add_lunch_combo du_find7-userdebug
+add_lunch_combo du_find7-eng
